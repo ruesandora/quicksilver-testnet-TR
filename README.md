@@ -1,6 +1,6 @@
 <h1 align="center">Quicksilver, killerqueen-1 testnet rehberi</h1>
 
-# QuickSilver Türkiye Telegram Grubu: [Buradan katılabilirsiniz](https://t.me/+z0IBseWl2D8yY2Vk)
+# QuickSilver Türkiye Telegram Grubu: [Buradan katılabilirsiniz](https://t.me/QuicksilverTurkish)
 
 ![image](https://user-images.githubusercontent.com/101149671/175765082-1a35b43c-0cd4-4863-b103-00e9749641a1.png)
 
@@ -71,6 +71,8 @@ quicksilverd tx staking create-validator \
   --chain-id killerqueen-1
 ```
 
+# QuickSilver Türkiye Telegram Grubu: [Buradan katılabilirsiniz](https://t.me/QuicksilverTurkish)
+
 # Ek olarak yararlı komutlar için [buradan](https://forum.rues.info/index.php?threads/quicksilver-testneti-katilim-rehberi.1947/) bulabilirsiniz. 
 
 # Hesaplar:
@@ -84,45 +86,3 @@ quicksilverd tx staking create-validator \
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Chat   ](https://t.me/RuesChat)
 
 [Discord](https://discord.gg/ruescommunity)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
