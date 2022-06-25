@@ -55,7 +55,10 @@ quicksilverd keys add WALLET
 
 Discord kanalları: [kanal linki](https://discord.gg/fWCGsb7sE7) 
 
-Discorddan talep komutu: $request cüzdan adresi şeklinde. 1 kez alabiliyorsunuz 5 token veriliyor.
+Discorddan talep komutu: $request + cüzdan adresi ve sonuna killerqueen şeklinde. 1 kez alabiliyorsunuz 5 token veriliyor.
+
+![image](https://user-images.githubusercontent.com/101149671/175772344-69161a63-1d58-473e-a97d-443878716ec0.png)
+
 
 # Şimdi gelelim, Validator oluşturmaya: (wallet ve node isminiz değişecek)
 ```
