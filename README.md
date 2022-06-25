@@ -74,9 +74,28 @@ quicksilverd tx staking create-validator \
   --chain-id killerqueen-1
 ```
 
-# QuickSilver Türkiye Telegram Grubu: [Buradan katılabilirsiniz](https://t.me/QuicksilverTurkish)
+# Quicksilver ödüllü Testnet görevleri:
 
-# Ek olarak yararlı komutlar için [buradan](https://forum.rues.info/index.php?threads/quicksilver-testneti-katilim-rehberi.1947/) bulabilirsiniz. 
+1-Tüm testnet boyunca jailed olmayın : 250 puan
+2-Tüm testnet boyunca en az blok kaçırma rekoru kırın : 200 puan
+3-Komisyon oranınızı %5.9 olarak ayarlayın : 25 puan
+
+```
+quicksilverd tx staking edit-validator --chain-id=killerqueen-1 --moniker=NodeName --commission-rate="0.059"  --from=walletName
+```
+
+4-Ödülleri kendimize çekin : 25 puan
+
+```
+quicksilverd tx distribution withdraw-all-rewards --from Cüzdanismi --chain-id killerqueen-1
+```
+
+5-Tokenleri Redelegate ediyoruz 25 puan:
+```
+quicksilverd tx staking redelegate KendiValoperAdresimiz quickvaloper1xzsg7sgws73nvjdd7ga0mw9vek0v7zg6f7xdej miktar000000uqck --chain-id killerqueen-1 --from cüzdanAdı --gas=auto -y
+```
+
+# QuickSilver Türkiye Telegram Grubu: [Buradan katılabilirsiniz](https://t.me/QuicksilverTurkish)
 
 # Hesaplar:
 
