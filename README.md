@@ -74,7 +74,7 @@ quicksilverd tx staking create-validator \
   --chain-id killerqueen-1
 ```
 
-# Quicksilver ödüllü Testnet görevleri:
+# Quicksilver ödüllü Testnet görevleri: (oluşturduktan 24 saat sonra görevleri yapalım)
 
 1-Tüm testnet boyunca jailed olmayın : 250 puan
 2-Tüm testnet boyunca en az blok kaçırma rekoru kırın : 200 puan
