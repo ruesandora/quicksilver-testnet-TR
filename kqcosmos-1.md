@@ -1,4 +1,4 @@
-<h1 align="center">Quicksilver, qkcosmos-1 testnet rehberi</h1>
+<h1 align="center">Quicksilver, kqcosmos-1 testnet rehberi</h1>
 
 # QuickSilver Türkiye Telegram Grubu: [Buradan katılabilirsiniz](https://t.me/QuicksilverTurkish)
 
