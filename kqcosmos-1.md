@@ -66,12 +66,12 @@ sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.ica/config/config.toml
 ```
 sudo tee /etc/systemd/system/icad.service > /dev/null <<EOF
 [Unit]
-Description=quicksilver
+Description=icadQuicksilver
 After=network-online.target
 
 [Service]
 User=$USER
-ExecStart=$(which icad) 
+ExecStart=/usr/bin/icad start
 Restart=on-failure
 RestartSec=3
 LimitNOFILE=65535
