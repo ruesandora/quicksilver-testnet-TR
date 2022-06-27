@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/101149671/175813850-32287cc3-709f-49ed-83de-5976e6666b67.png)
 
-<h1 align="center">Biliyorsunuz bir kaç gün önce killerqueen-1 testine katıldık, şimdi yeni görev olan qkcosmos-1'E katılacağız, aynı sunucuya olmaz, birbirlerinden farklılar, sadece aynı cüzdanları kullanacağız.</h1> 
+<h1 align="center">Biliyorsunuz bir kaç gün önce killerqueen-1 testine katıldık, şimdi yeni görev olan kqcosmos-1'E katılacağız, aynı sunucuya olmaz, birbirlerinden farklılar, sadece aynı cüzdanları kullanacağız.</h1> 
 
 # Sunucumuzu güncelleyelim:
 ```
