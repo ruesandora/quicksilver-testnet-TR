@@ -74,6 +74,33 @@ quicksilverd tx staking create-validator \
   --chain-id killerqueen-1
 ```
 
+# quicksilver güncellemesi:
+
+güncelleme geldi arkadaşlar 98 bininci bloğa ulaşanlar için (98 bine ulaşamadan güncelleme yapmayın!!!!!)
+
+```
+1- sudo su
+2- cd
+3- rm -rf quicksilver 
+4- git clone https://github.com/ingenuity-build/quicksilver.git
+5- cd quicksilver
+6- git checkout v0.4.1
+6- make build
+7- sudo chmod +x ./build/quicksilverd && sudo mv ./build/quicksilverd /usr/local/bin/quicksilverd
+8 -sudo systemctl restart quicksilverd
+```
+
+2. yöntem
+```
+cd
+cd quicksilver
+git pull
+git checkout v0.4.1
+make install 
+sudo chmod +x ./build/quicksilverd && sudo mv ./build/quicksilverd /usr/local/bin/quicksilverd
+sudo systemctl restart quicksilverd
+```
+
 # Quicksilver ödüllü Testnet görevleri: (oluşturduktan 24 saat sonra görevleri yapalım)
 
 1-Tüm testnet boyunca jailed olmayın : 250 puan
