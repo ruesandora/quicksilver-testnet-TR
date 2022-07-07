@@ -34,6 +34,7 @@ go version
 git clone https://github.com/ingenuity-build/interchain-accounts --branch main
 cd interchain-accounts
 make install
+cp $HOME/go/bin/icad /usr/bin
 ```
 
 # initialize işlemi: (node ismini girin)
